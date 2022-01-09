@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Project description.
+> One paragraph statement about the project.
 
 ![screenshot](./app_screenshot.png)
 
